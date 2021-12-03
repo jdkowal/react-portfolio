@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap);
+
+*{
+    box-sizing: border-box;
+    margin: 10px;
+    font-family: "Roboto";
+    color: #333;
+}
+
+.header{
+    background-color: khaki;
+}
+
+.navBar{
+    text-decoration: none;
+
+    font-family: "Roboto";
+}
+
+.aboutMe p{
+    font-size: 24;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0 20px 0;
+    margin-top: auto;
+}
